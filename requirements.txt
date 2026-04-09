@@ -7,3 +7,4 @@ joblib
 razorpay
 firebase-admin
 gunicorn
+python-3.12.6
